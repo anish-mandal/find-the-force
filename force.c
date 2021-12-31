@@ -1,13 +1,8 @@
-// C libraries
 #include <stdio.h>
 
-// Program starts
 int main()
 {
     int mass, acceleration;
-    /*
-    This program does not contain exception handling cause C does not have exception handling..
-    */
 
     printf("\nIn this program, we will find force applied on an object using python.\n");
     printf("Formula for force: F = ma (where F is force, m is mass and a is acceleration)\n");
@@ -18,5 +13,4 @@ int main()
 
     printf("The force applied on the object is %d Newton\n", mass*acceleration);
     return 0;
-    // Program ends
 }
