@@ -17,11 +17,6 @@ const rl = readline.createInterface({
 rl.question("Enter the mass of the object: ", (mass) => {
     // Second question
     rl.question("Enter the acceleration of the object: ", (acceleration) => {
-        /*
-        if (mass != String && acceleration != String){
-            return NaN;
-        };
-        */
         console.log(`The force applied on the object is ${mass*acceleration} Newton`)
         rl.close();
         // Input prompt terminated
