@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int mass, acceleration;
 
-    cout<<"In this program, we will find force applied on an object using python."<<endl<<"Formula for force: F = ma (where F is force, m is mass and a is acceleration)\n"<<endl;
+    cout<<"In this program, we will find force applied on an object using c++."<<endl<<"Formula for force: F = ma (where F is force, m is mass and a is acceleration)\n"<<endl;
 
     cout<<"Enter the mass of the object: ";
     cin>>mass;
