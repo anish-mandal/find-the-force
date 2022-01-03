@@ -1,6 +1,6 @@
 const readline = require("readline");
 
-console.log("\nIn this program, we will find force applied on an object using python.");
+console.log("\nIn this program, we will find force applied on an object using javascript.");
 console.log("Formula for force: F = ma (where F is force, m is mass and a is acceleration)\n");
 
 const rl = readline.createInterface({
