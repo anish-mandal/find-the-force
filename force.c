@@ -4,7 +4,7 @@ int main()
 {
     int mass, acceleration;
 
-    printf("\nIn this program, we will find force applied on an object using python.\n");
+    printf("\nIn this program, we will find force applied on an object using c.\n");
     printf("Formula for force: F = ma (where F is force, m is mass and a is acceleration)\n");
     printf("Enter the mass of the object:\n");
     scanf("%d", &mass);
